@@ -1,0 +1,139 @@
+.topcontainer {
+  background-color: #fffcc1;
+  padding-top: 100px;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 100%;
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  margin: 40px auto 0 auto;
+  font-size: 100px;
+  font-family: 'Grand Hotel', cursive;
+  color: #cba1d2;
+}
+
+h2 {
+  font-family: 'Gabriela', serif;
+  font-size: 2.5rem;
+  color: #cba1d2;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Gabriela', serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Josefin Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+
+}
+
+hr {
+  border-style: none;
+  height: 1px;
+  border-top: 8px #ab72c0 dotted;
+  width: 10%;
+  margin: 40px auto;
+}
+
+.middle-container {
+  background-color: #fdeaab;
+  padding-bottom: 25px;
+}
+
+.bottom-container {
+  background-color: #cba1d2;
+  padding-top: 20px;
+  margin-bottom: -15px;
+}
+
+.ultimate {
+  text-decoration: underline;
+}
+
+.topcloud {
+  position: absolute;
+  right: 350px;
+  top: 20px;
+}
+
+.bottomcloud {
+  position: absolute;
+  bottom: 300px;
+}
+
+.me {
+  padding-top: 50px;
+}
+
+.me-text {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: justify;
+}
+
+.skill1 {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.skill2 {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.bottom-text {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.contact-text {
+  margin: 30px auto 40px;
+  line-height: 2;
+  width: 40%;
+
+}
+
+.btn {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #0F0609 !important;
+  font-size: 14px;
+  text-shadow: 1px 1px 0 #B8B8B8;
+  box-shadow: 1px 1px 1px #F9F9F9;
+  padding: 10px 25px;
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;
+  border-radius: 40px;
+  border: 1px double #A3278A;
+  background: #AB72C0;
+}
+
+.btn:hover {
+  color: #0F0609 !important;
+  background: #825691;
+}
